@@ -36,9 +36,9 @@
                 <executions>
                     <execution>
                         <id>validate</id>
-                        <phase>validate</phase>
+                        <phase>verify</phase>
                         <goals>
-                            <goal>verify</goal>
+                            <goal>check</goal>
                         </goals>
                     </execution>
                 </executions>
